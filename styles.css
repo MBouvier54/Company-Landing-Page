@@ -23,6 +23,7 @@ header {
 main {
     padding: 20px; /* Add padding around main content */
     text-align: center; /* Center text in the main section */
+    background-color: lightseagreen;
 }
 
 h1 {
