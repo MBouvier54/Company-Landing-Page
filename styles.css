@@ -10,7 +10,7 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #f8f9fa; /* Light background for header */
+    background-color: lightblue; /* Light background for header */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add slight shadow to header */
 }
 
